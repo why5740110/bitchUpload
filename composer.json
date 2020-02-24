@@ -1,0 +1,19 @@
+{
+    "name": "bitch/bitch-upload",
+    "description": "bitch",
+    "type": "l",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wanghongying",
+            "email": "648049301@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Bitch\\": "src/"
+        }
+    }
+}
